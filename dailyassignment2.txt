@@ -1,0 +1,63 @@
+package day1;
+
+public class DailyAssignment2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		char abc='A';
+		int value =abc;
+		System.out.println("ASCII value is " +value);
+		
+		char bcd='a';
+		int value1 =bcd;
+		System.out.println("ASCII value is " +value1);
+
+		char cde='0';
+		int value2 =cde;
+		System.out.println("ASCII value is " +value2);
+		
+		char def='@';
+		int value3 =def;
+		System.out.println("ASCII value is " +value3);
+		
+		
+	}
+
+}
+--------------------------------------------------------------------------------------
+package dailyassignment;
+
+public class DailyAssignment2_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("*");
+		System.out.println("**");
+		System.out.println("***");
+		System.out.println("****");
+		System.out.println("*****");
+
+
+	}
+
+}
+------------------------------------------------------------------------------------
+
+
+package dailyassignment;
+
+public class DailyAssignment2_3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		double data=10.75;
+		int data1=(int)data;
+		
+		System.out.println(data1);
+		System.out.println(data);
+	}
+
+}
